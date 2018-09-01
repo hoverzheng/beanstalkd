@@ -4,8 +4,6 @@ See http://kr.github.io/beanstalkd/ for general info.
 
 
 
-
-
 QUICK START
 
     $ make
@@ -47,3 +45,6 @@ Copyright © 2007-2013 the authors of beanstalkd.
 Copyright in contributions to beanstalkd is retained
 by the original copyright holder of each contribution.
 See file LICENSE for terms of use.
+
+hover changed 
+
